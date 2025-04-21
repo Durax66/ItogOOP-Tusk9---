@@ -19,7 +19,7 @@
 
 3.Окно редактирования:
 
-   ![]()
+   ![](https://github.com/Durax66/ItogOOP-Tusk9---/blob/master/screenshots/screen%203.png)
    
 ## Установка
 
