@@ -20,7 +20,7 @@
 
 1. Клонируйте репозиторий:
    
-   git clone https://github.com/Durax66/ItogOOP-Tusk1--
+   git clone https://github.com/Durax66/ItogOOP-Tusk9---/tree/master
     
    2. Откройте проект в Visual Studio:
    - Запустите Visual Studio.
