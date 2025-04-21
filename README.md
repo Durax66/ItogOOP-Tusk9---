@@ -15,7 +15,7 @@
 
 3. Окно добавления:
    
-   ![]()
+   ![](https://github.com/Durax66/ItogOOP-Tusk9---/blob/master/screenshots/screen%202.png)
 
 3.Окно редактирования:
 
